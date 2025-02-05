@@ -1,4 +1,9 @@
 # Restaurant Review Sentiment and Predictive Analysis
+
+The full analysis lives in **[DataDive6310.ipynb](DataDive6310.ipynb)** —
+Python (pandas, NLTK, scikit-learn, wordcloud, seaborn). The review CSVs it
+reads from `data/` are course-provided and not committed here.
+
 ## Project Outline:
 ### Objective:
 This Data Dive project aimed to analyze restaurant reviews across five states (AB, QC, OH, AZ, ON) to identify key factors contributing to customer satisfaction, particularly focusing on 1-star and 5-star reviews. Using sentiment analysis and Natural Language Processing (NLP) techniques, the project uncovered patterns in customer feedback related to food quality, service, and specific menu items.
